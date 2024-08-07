@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using StackBuilderLibrary.Services.Angular;
+using StackBuilderLibrary.Services.dotnet;
+
+DotnetHub dotnetHub = new DotnetHub();
+AngularHub angularHub = new AngularHub();
+
+string dir = Environment.CurrentDirectory;
