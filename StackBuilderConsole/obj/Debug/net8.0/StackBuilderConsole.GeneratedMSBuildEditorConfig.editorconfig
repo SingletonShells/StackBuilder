@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StackBuilderConsole
-build_property.ProjectDir = C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\
+build_property.ProjectDir = C:\Users\shell\OneDrive\Desktop\S3 Services\Web Based\StackBuilder\StackBuilderConsole\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

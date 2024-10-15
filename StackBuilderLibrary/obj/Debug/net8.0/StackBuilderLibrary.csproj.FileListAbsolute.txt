@@ -10,3 +10,4 @@ C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderLibrary\obj
 C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderLibrary\obj\Debug\net8.0\refint\StackBuilderLibrary.dll
 C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderLibrary\obj\Debug\net8.0\StackBuilderLibrary.pdb
 C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderLibrary\obj\Debug\net8.0\ref\StackBuilderLibrary.dll
+C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderLibrary\obj\Debug\net8.0\StackBuilderLibrary.csproj.AssemblyReference.cache

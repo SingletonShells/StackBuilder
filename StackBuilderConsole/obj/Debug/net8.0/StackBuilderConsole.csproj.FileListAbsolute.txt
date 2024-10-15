@@ -17,3 +17,4 @@ C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj
 C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.pdb
 C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.genruntimeconfig.cache
 C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\ref\StackBuilderConsole.dll
+C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\Newtonsoft.Json.dll

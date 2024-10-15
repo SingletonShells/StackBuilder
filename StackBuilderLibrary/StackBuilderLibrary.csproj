@@ -6,4 +6,16 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Helpers\AngularHelpers\" />
+    <Folder Include="Helpers\DotnetHelpers\" />
+    <Folder Include="Services\Angular\AngularDataFiles\" />
+    <Folder Include="Services\Builders\" />
+    <Folder Include="Services\dotnet\DotnetDataFiles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
 </Project>

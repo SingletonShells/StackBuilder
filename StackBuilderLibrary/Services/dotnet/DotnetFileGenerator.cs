@@ -1,67 +1,33 @@
-using System;
+//using System;
 using System.Diagnostics;
 
 namespace StackBuilderLibrary.Services.dotnet;
 
 public class DotnetFileGenerator
 {
+    private readonly DotnetHelper _helper;
+    private Process? process = null;
+
+    private DotnetFileGenerator()
+    {
+        _helper = new DotnetHelper();
+    }
+
     public void createApi(string filename, string directory)
     {
-        ProcessStartInfo startInfo = new ProcessStartInfo();
-        startInfo.FileName = "cmd.exe";
-        startInfo.RedirectStandardInput = true;
-        startInfo.RedirectStandardOutput = true;
-        startInfo.CreateNoWindow = true;
-        startInfo.UseShellExecute = false;
-
-        Process process = new Process();
-        process.StartInfo = startInfo;
-        process.Start();
-
-        process.StandardInput.WriteLine($"cd {directory}");
-        process.StandardInput.WriteLine($"dotnet new webapi -o {filename}");
-        process.StandardInput.WriteLine("exit");
-
+        process = _helper.getProcess(filename, directory);
         process.WaitForExit();
     }
 
     public void createWPF(string filename, string directory)
     {
-        ProcessStartInfo startInfo = new ProcessStartInfo();
-        startInfo.FileName = "cmd.exe";
-        startInfo.RedirectStandardInput = true;
-        startInfo.RedirectStandardOutput = true;
-        startInfo.CreateNoWindow = true;
-        startInfo.UseShellExecute = false;
-
-        Process process = new Process();
-        process.StartInfo = startInfo;
-        process.Start();
-
-        process.StandardInput.WriteLine($"cd {directory}");
-        process.StandardInput.WriteLine($"dotnet new wpf -o {filename}");
-        process.StandardInput.WriteLine("exit");
-
+        process = _helper.getProcess(filename, directory);
         process.WaitForExit();
     }
 
     public void createClassLibrary(string filename, string directory)
     {
-        ProcessStartInfo startInfo = new ProcessStartInfo();
-        startInfo.FileName = "cmd.exe";
-        startInfo.RedirectStandardInput = true;
-        startInfo.RedirectStandardOutput = true;
-        startInfo.CreateNoWindow = true;
-        startInfo.UseShellExecute = false;
-
-        Process process = new Process();
-        process.StartInfo = startInfo;
-        process.Start();
-
-        process.StandardInput.WriteLine($"cd {directory}");
-        process.StandardInput.WriteLine($"dotnet new classlib -o {filename}");
-        process.StandardInput.WriteLine("exit");
-
+        process = _helper.getProcess(filename, directory);
         process.WaitForExit();
     }
 }
