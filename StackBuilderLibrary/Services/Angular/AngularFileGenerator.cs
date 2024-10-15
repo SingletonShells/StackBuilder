@@ -5,6 +5,14 @@ namespace StackBuilderLibrary.Services.Angular;
 
 public class AngularFileGenerator
 {
+    private AngularHelper _helper = new AngularHelper();
+    private ProcessStartInfo startInfo;
+
+    public AngularFileGenerator()
+    {
+        startInfo = _helper.getStartInfo();
+    }
+
     public void createProject(string filename, string directory)
     {
         ProcessStartInfo startInfo = new ProcessStartInfo();
@@ -20,8 +28,22 @@ public class AngularFileGenerator
 
         process.StandardInput.WriteLine($"cd {directory}");
         process.StandardInput.WriteLine($"ng new {filename} --routing --style=scss");
+
+        process.StandardInput.WriteLine($"cd {filename}");
+        process.StandardInput.WriteLine($"npm install -f");
+
         process.StandardInput.WriteLine("exit");
 
         process.WaitForExit();
+    }
+
+    public void addDefaultLayout()
+    {
+        startInfo = _helper.getStartInfo();
+    }
+
+    public void addDefaultPage()
+    {
+        startInfo = _helper.getStartInfo();
     }
 }

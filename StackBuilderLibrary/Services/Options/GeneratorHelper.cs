@@ -1,5 +1,3 @@
-//using System;
-
 namespace StackBuilderLibrary.Services.Options;
 
 public class GeneratorHelper

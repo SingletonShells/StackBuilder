@@ -1,9 +1,8 @@
 using System.Diagnostics;
 
-namespace StackBuilderLibrary.Services.dotnet;
+namespace StackBuilderLibrary.Services.Angular;
 
-
-public class DotnetHelper
+public class AngularHelper
 {
     public ProcessStartInfo getStartInfo()
     {
