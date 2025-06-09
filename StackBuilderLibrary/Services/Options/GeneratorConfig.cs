@@ -26,10 +26,10 @@ public class GeneratorConfig
     //        createConfig(helper.Name, helper);
     //    }
 
-    private void createConfig(string filename, GeneratorHelper helper)
+    public void createConfig(GeneratorHelper helper)
     {
-        var file = filename + FILE_EXTENSION;
-
+        var file = helper.Directory + FILE_EXTENSION;
+        //var file = Path.Combine(helper.Directory, FILE_EXTENSION);
 
         string jsonString = JsonSerializer.Serialize(helper);
         File.WriteAllText(file, jsonString);

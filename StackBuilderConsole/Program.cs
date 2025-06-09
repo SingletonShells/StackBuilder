@@ -34,3 +34,7 @@ _config.addProjectConfig(config.Name, config.Directory, config.Type);
 var stuff = _config.getProjectConfigs();
 
 stuff.Select(x => x).ToList().ForEach(x => Console.WriteLine(x.Name));
+
+
+// Rapid file create
+stuff.Select(x => x).ToList().ForEach(x => _config.createConfig(x));
