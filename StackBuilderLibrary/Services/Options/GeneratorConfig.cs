@@ -30,8 +30,10 @@ public class GeneratorConfig
     {
         var file = helper.Directory + FILE_EXTENSION;
         //var file = Path.Combine(helper.Directory, FILE_EXTENSION);
+        var options = new JsonSerializerOptions { WriteIndented = true };
 
-        string jsonString = JsonSerializer.Serialize(helper);
+        //string jsonString = JsonSerializer.Serialize(helper);
+        string jsonString = JsonSerializer.Serialize(helper, options);
         File.WriteAllText(file, jsonString);
     }
 
