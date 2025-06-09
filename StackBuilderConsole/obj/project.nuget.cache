@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5h8oCjJyvww=",
+  "dgSpecHash": "/ssomrmUvswZRVT7J8Wffr9vuOX/JJsxEmDHEKw5DDLm78pHH8lBoZsvs1guJGr4wtmdDvtgnlb5KQwqQ4ZDTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shell\\OneDrive\\Desktop\\S3 Services\\StackBuilder\\StackBuilderConsole\\StackBuilderConsole.csproj",
+  "projectFilePath": "/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/StackBuilderConsole.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\shell\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "/home/singletonshells/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

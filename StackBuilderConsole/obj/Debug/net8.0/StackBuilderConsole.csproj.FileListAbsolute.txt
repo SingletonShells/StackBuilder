@@ -1,20 +1,40 @@
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\StackBuilderConsole.exe
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\StackBuilderConsole.deps.json
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\StackBuilderConsole.runtimeconfig.json
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\StackBuilderConsole.dll
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\StackBuilderConsole.pdb
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\StackBuilderLibrary.dll
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\StackBuilderLibrary.pdb
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.csproj.AssemblyReference.cache
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.AssemblyInfoInputs.cache
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.AssemblyInfo.cs
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.csproj.CoreCompileInputs.cache
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.sourcelink.json
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBui.FD27BC95.Up2Date
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.dll
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\refint\StackBuilderConsole.dll
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.pdb
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\StackBuilderConsole.genruntimeconfig.cache
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\obj\Debug\net8.0\ref\StackBuilderConsole.dll
-C:\Users\shell\OneDrive\Desktop\S3 Services\StackBuilder\StackBuilderConsole\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.exe
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.deps.json
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.runtimeconfig.json
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.dll
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.pdb
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderLibrary.dll
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderLibrary.pdb
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.csproj.AssemblyReference.cache
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.AssemblyInfoInputs.cache
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.AssemblyInfo.cs
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.csproj.CoreCompileInputs.cache
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.sourcelink.json
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBui.FD27BC95.Up2Date
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.dll
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/refint/StackBuilderConsole.dll
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.pdb
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.genruntimeconfig.cache
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/ref/StackBuilderConsole.dll
+C:/Users/shell/OneDrive/Desktop/S3 Services/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.deps.json
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.runtimeconfig.json
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.dll
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderConsole.pdb
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderLibrary.dll
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/bin/Debug/net8.0/StackBuilderLibrary.pdb
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.csproj.AssemblyReference.cache
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.AssemblyInfoInputs.cache
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.AssemblyInfo.cs
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.csproj.CoreCompileInputs.cache
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.sourcelink.json
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.csproj.CopyComplete
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.dll
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/refint/StackBuilderConsole.dll
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.pdb
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/StackBuilderConsole.genruntimeconfig.cache
+/home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderConsole/obj/Debug/net8.0/ref/StackBuilderConsole.dll

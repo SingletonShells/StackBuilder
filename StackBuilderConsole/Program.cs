@@ -3,17 +3,34 @@ using StackBuilderConsole;
 using StackBuilderLibrary.Services.Angular;
 using StackBuilderLibrary.Services.dotnet;
 using StackBuilderLibrary.Services.Options;
+using System.Threading;
 
 string directory = Directory.GetCurrentDirectory();
 
-GeneratorConfig _config =  new GeneratorConfig();
-
-_config.addProjectConfig("Nkateko", directory, "Angular");
+GeneratorConfig _config = new GeneratorConfig();
 
 var items = _config.getProjectConfigs();
 
-foreach (var item in items)
+var action = MainMenu.Show();
+var choice = "";
+
+switch (action)
 {
-    Console.WriteLine(item.Name);
-    Console.WriteLine(item.Directory);
+    case "Create":
+        choice = CreateStackMenu.show();
+        break;
+    case "View":
+        break;
+    default:
+        Console.WriteLine("Invalid choice. Please try again.");
+        Console.ReadKey();
+        break;
 }
+
+var config = DetailsMenu.Show(choice);
+
+
+_config.addProjectConfig(config.Name, config.Directory, config.Type);
+var stuff = _config.getProjectConfigs();
+
+stuff.Select(x => x).ToList().ForEach(x => Console.WriteLine(x.Name));

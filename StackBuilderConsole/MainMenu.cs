@@ -4,7 +4,7 @@ namespace StackBuilderConsole;
 
 public static class MainMenu
 {
-    public static void Show()
+    public static string Show()
     {
         Console.Clear();
         Console.WriteLine("Welcome to Stack Builder!");
@@ -12,17 +12,19 @@ public static class MainMenu
         Console.WriteLine("2. View existing stacks");
         Console.WriteLine("3. Exit");
 
-        var choice = Console.ReadLine();
+        var choice = 0;
+        choice = Convert.ToInt32(Console.ReadLine());
+        var outchoice = "";
 
         switch (choice)
         {
-            case "1":
-                CreateStackMenu.show();
+            case 1:
+                outchoice = "Create";
                 break;
-            case "2":
-                CreateStackMenu.show();
+            case 2:
+                outchoice = "View";
                 break;
-            case "3":
+            case 3:
                 Environment.Exit(0);
                 break;
             default:
@@ -31,6 +33,7 @@ public static class MainMenu
                 Show();
                 break;
         }
+        return outchoice;
     }
 
 }

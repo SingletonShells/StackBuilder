@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackBuilderLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31c5aaa12baadb8ca060fa7987e6fa7241a3f16e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5206b4dcb68db8a53d5f491def57330061075cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackBuilderLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackBuilderLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

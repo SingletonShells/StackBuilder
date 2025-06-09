@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StackBuilderLibrary
-build_property.ProjectDir = C:\Users\shell\OneDrive\Desktop\S3 Services\Web Based\StackBuilder\StackBuilderLibrary\
+build_property.ProjectDir = /home/singletonshells/stuff/dotnet/StackBuilder/StackBuilderLibrary/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
